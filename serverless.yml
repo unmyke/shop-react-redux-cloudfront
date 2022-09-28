@@ -1,4 +1,4 @@
-service: my-store-app
+service: story-store
 
 frameworkVersion: "3"
 
